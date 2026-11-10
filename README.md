@@ -1,2 +1,2 @@
-# ikt-t-ri
+# ikt-töri
 ikt töri jatekos feladat
